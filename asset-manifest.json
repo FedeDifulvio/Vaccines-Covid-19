@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Vaccines-Covid-19/static/css/main.dc65512f.chunk.css",
+    "main.js": "/Vaccines-Covid-19/static/js/main.d609dfa9.chunk.js",
+    "main.js.map": "/Vaccines-Covid-19/static/js/main.d609dfa9.chunk.js.map",
+    "runtime-main.js": "/Vaccines-Covid-19/static/js/runtime-main.477de2bc.js",
+    "runtime-main.js.map": "/Vaccines-Covid-19/static/js/runtime-main.477de2bc.js.map",
+    "static/js/2.c9556061.chunk.js": "/Vaccines-Covid-19/static/js/2.c9556061.chunk.js",
+    "static/js/2.c9556061.chunk.js.map": "/Vaccines-Covid-19/static/js/2.c9556061.chunk.js.map",
+    "index.html": "/Vaccines-Covid-19/index.html",
+    "static/css/main.dc65512f.chunk.css.map": "/Vaccines-Covid-19/static/css/main.dc65512f.chunk.css.map",
+    "static/js/2.c9556061.chunk.js.LICENSE.txt": "/Vaccines-Covid-19/static/js/2.c9556061.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.477de2bc.js",
+    "static/js/2.c9556061.chunk.js",
+    "static/css/main.dc65512f.chunk.css",
+    "static/js/main.d609dfa9.chunk.js"
+  ]
+}
